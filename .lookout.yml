@@ -1,0 +1,5 @@
+analyzers:
+  - name: Dummy
+    settings:
+      valA: 'a from repo yml'
+      valD: 'd from repo yml'
